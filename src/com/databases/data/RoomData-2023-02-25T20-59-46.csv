@@ -1,0 +1,17 @@
+Status,RoomNo,RoomName,Location,Capacity,Resources
+OPEN,101,Seminar,1.floor,27,projector-board
+OPEN,102,Seminar,1.floor,35,projector-whiteboard
+OPEN,103,Lecture,1.floor,60,projector-board
+OPEN,104,Lecture,1.floor,20,projector-blackboard
+OPEN,105,Lecture,1.floor,26,WiFi-cbm-pj
+CLOSE,107,Seminar,1.floor,33,PC1-WiFi-chalk board mounted-TV-projector-speaker-sink
+OPEN,108,PCpool,1.floor,20,PC20-WiFi-white board mounted-smart board-projector-speaker-sink
+OPEN,110,Lecture,1.floor,50,Board-projector
+OPEN,201,PC pool,2.floor,30,25PCs-Projector-Whiteboard
+CLOSE,205,Lecture,3.floor,40,projector-whiteboard
+OPEN,206,Seminar,2.floor,30,board-projector
+OPEN,210,PC pool,2.floor,32,projector-30PCs
+OPEN,303,Seminar,3.floor,30,board-projector
+CLOSE,305,Lecture,3.floor,50,projector-whiteboard
+OPEN,401,Seminar,4.floor,35,board-projector
+OPEN,405,PC pool,4.floor,30,projector-25PCs
